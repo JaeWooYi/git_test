@@ -1,5 +1,12 @@
 # git_test
 
+git
+해당 폴더로 터미널 실행
+git add .
+git commit -m "(하고 싶은 말)"
+git push
+
+
 # git 레포 파일 연결!
 
 (새로운 터미널 탭 열기!!)
@@ -8,7 +15,7 @@
 3. git add .
 4. git commit -m “커밋메시지!”
 5. git remote add origin 레포복사한주소
-6. gint push origin master
+6. git push origin master
 
 # 강제 주입 ..
 
@@ -22,3 +29,4 @@
 1. 폴더 만들
 2. 터미널창
 3. git clone 레포 복사한 주소
+
