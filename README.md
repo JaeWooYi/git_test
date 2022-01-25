@@ -2,9 +2,9 @@
 
 git
 해당 폴더로 터미널 실행
-git add .
-git commit -m "(하고 싶은 말)"
-git push
+1. git add .
+2. git commit -m "(하고 싶은 말)"
+3. git push
 
 
 # git 레포 파일 연결!
