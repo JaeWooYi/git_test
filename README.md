@@ -24,6 +24,9 @@ git
 3. git checkout main
 4. git push origin main -f
 
+# 푸시 안될때 강제로 밀기..(위 방식보다 이게 훨씬 훨씬 안전한거 같다)
+git push --force
+
 # git clone!
 
 1. 폴더 만들
